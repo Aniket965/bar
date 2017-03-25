@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Projects\android\android-vision\visionSamples\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="D:\Projects\android\android-vision\visionSamples\barcode-reader\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.0_344837abc1ab008f14897b84f7a7a486f7a592fa.jar" />
+    </item>
+    <item
+        jar="D:\Projects\android\android-vision\visionSamples\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="D:\Projects\android\android-vision\visionSamples\barcode-reader\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_6b093420d77a53d62bf4e8e6baa5a9dba6c64cec.jar" />
+    </item>
+    <item
+        jar="D:\Projects\android\android-vision\visionSamples\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="D:\Projects\android\android-vision\visionSamples\barcode-reader\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_0c88dfb995080b9832a1cbc1e7b9d4fdd85cfd7d.jar" />
+    </item>
+    <item
+        jar="D:\Projects\android\android-vision\visionSamples\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="D:\Projects\android\android-vision\visionSamples\barcode-reader\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_96ff684ff8e5ac8cefb2eff716777614d819a8f6.jar" />
+    </item>
+    <item
+        jar="D:\Projects\android\android-vision\visionSamples\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="D:\Projects\android\android-vision\visionSamples\barcode-reader\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_a63ac5e191ca1a03731e0ef4decd5373deb20141.jar" />
+    </item>
+    <item
+        jar="D:\Projects\android\android-vision\visionSamples\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="D:\Projects\android\android-vision\visionSamples\barcode-reader\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_55ee33fc0030fed81cd1625e50b65a402a1a2a0d.jar" />
+    </item>
+    <item
+        jar="D:\Projects\android\android-vision\visionSamples\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="D:\Projects\android\android-vision\visionSamples\barcode-reader\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_3bb5887239599b8852f6b70730143a81d169fc4e.jar" />
+    </item>
+    <item
+        jar="D:\Projects\android\android-vision\visionSamples\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="D:\Projects\android\android-vision\visionSamples\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.4.0_92a8344c9d7dc62f6c642832b81e9bf80cfcb9db.jar" />
+    </item>
+    <item
+        jar="D:\Projects\android\android-vision\visionSamples\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="D:\Projects\android\android-vision\visionSamples\barcode-reader\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.0_cb58b6c42c1be7d6b53faf5d6400cd7553dd02c1.jar" />
+    </item>
+    <item
+        jar="D:\Projects\android\android-vision\visionSamples\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="D:\Projects\android\android-vision\visionSamples\barcode-reader\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_7338aa1a23a0a2d634b8f694416ce93d178000a1.jar" />
+    </item>
+    <item
+        jar="D:\Projects\android\android-vision\visionSamples\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="D:\Projects\android\android-vision\visionSamples\barcode-reader\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_08756087df382f73e4ac0962d03baae4086a3344.jar" />
+    </item>
+    <item
+        jar="D:\Projects\android\android-vision\visionSamples\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="D:\Projects\android\android-vision\visionSamples\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.4.0_f84882150a6bb9f4f57b5b8815340e27fc4b86e5.jar" />
+    </item>
+    <item
+        jar="D:\Projects\android\android-vision\visionSamples\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="D:\Projects\android\android-vision\visionSamples\barcode-reader\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_4ea1ffee69eb3092f356711b843059354a44b8d1.jar" />
+    </item>
+    <item
+        jar="D:\Projects\android\android-vision\visionSamples\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="D:\Projects\android\android-vision\visionSamples\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-9.4.0_64c8b66c91fc4dd803a020488544eeaac4b07271.jar" />
+    </item>
+    <item
+        jar="D:\Projects\android\android-vision\visionSamples\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="D:\Projects\android\android-vision\visionSamples\barcode-reader\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_230a8cd1da3351464ea1d4d4459035212014e517.jar" />
+    </item>
+    <item
+        jar="D:\Projects\android\android-vision\visionSamples\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="D:\Projects\android\android-vision\visionSamples\barcode-reader\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_2cbad3a4199d5a54ba070086043cdd0f9086c54f.jar" />
+    </item>
+    <item
+        jar="D:\Projects\android\android-vision\visionSamples\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="D:\Projects\android\android-vision\visionSamples\barcode-reader\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_2f3d525f624bd7583b6956435f60ddd9009250bd.jar" />
+    </item>
+    <item
+        jar="D:\Projects\android\android-vision\visionSamples\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="D:\Projects\android\android-vision\visionSamples\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.4.0_8100bc2e71aa2fb762bbb7520a74a9f169115077.jar" />
+    </item>
+    <item
+        jar="D:\Projects\android\android-vision\visionSamples\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="D:\Projects\android\android-vision\visionSamples\barcode-reader\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_79f95d8acdf9b6d5784094a0eb62f23db4dff07e.jar" />
+    </item>
+    <item
+        jar="C:\Users\aniket sharma\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="D:\Projects\android\android-vision\visionSamples\barcode-reader\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_7a41ed85821fa8d15b0f32eb532d2b8f8c7e1ae6.jar" />
+    </item>
+    <item
+        jar="D:\Projects\android\android-vision\visionSamples\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="D:\Projects\android\android-vision\visionSamples\barcode-reader\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_35d60e9d4e0066690333a71080935ee64e5fd8ca.jar" />
+    </item>
+
+</items>
